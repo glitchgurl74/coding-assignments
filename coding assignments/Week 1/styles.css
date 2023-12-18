@@ -1,0 +1,54 @@
+body {
+    background-color: aquamarine;
+}
+div {
+    background-color: aqua; 
+    border-style: solid; 
+    border-color: black;
+    border-radius: 6px;
+}
+h1 {
+    color: black;
+    border-style: double;
+    border-radius: 6px;
+    border-color: blueviolet;
+    text-align: center;
+}
+h2 {
+    color: black;
+    border-style: double;
+    border-radius: 6px;
+    border-color: blueviolet;
+    text-align: center;
+}
+p {
+    text-align: center; 
+    text-shadow: grey; 
+    font-size: medium;
+    }
+#para2 {
+    text-align: left; 
+    text-shadow: rgb(87, 91, 93); 
+    font-size: medium;
+}
+form {
+    color: rgb(11, 67, 67);
+}
+table {
+    color: rgb(21, 38, 114);
+}
+img {
+    float: none;
+}
+table {
+    border-collapse:collapse; 
+    width: 50% ;
+}
+tr, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: black;
+}
+td:hover {
+    background-color: red;
+}
