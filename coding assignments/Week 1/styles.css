@@ -1,6 +1,7 @@
 body {
     background-color: aquamarine;
 }
+/*element selectors with some small style changes*/
 div {
     background-color: aqua; 
     border-style: solid; 
@@ -23,14 +24,15 @@ h2 {
 }
 p {
     text-align: center; 
-    text-shadow: grey; 
-    font-size: medium;
+    text-shadow: rgb(111, 98, 159); 
+    font-size medium;
     }
 #para2 {
-    text-align: left; 
-    text-shadow: rgb(87, 91, 93); 
-    font-size: medium;
-}
+    text-align: center; 
+    text-shadow: rgb(133, 36, 36); 
+    font-size medium;
+    }
+    /*selector with id tag*/
 form {
     color: rgb(11, 67, 67);
 }
